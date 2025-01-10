@@ -22,18 +22,18 @@ Fizemos esse planejamento utilizando uma board Miro, que pode ser [acessado por 
 	<img src="GitHub/miro.gif"; width=800pm;>
 </p>
 
-Tendo isso definido, realizamos a construção das cidades no Minecraft, utilizando apenas blocos do jogo base (vanilla) para a construção. Isso se deu porque o NOME DO PROGRAMA, 
+Tendo isso definido, realizamos a construção das cidades no Minecraft, utilizando apenas blocos do jogo base (vanilla) para a construção. Isso se deu porque o Mineways, 
 programa utilizado para exportar o mundo para modelo 3D, não suportava o uso de mods. O servidor utilizado na construção foi hospedado no Ploudos, um serviço gratuito que 
 infelizmente foi encerrado. Tendo exportado os modelos 3D, a apresentação foi confeccionada na Unity. De início planejamos usar a ARFoundation para realização do projeto, 
 mas como nenhum de nossos dispositivos apresentava suporte, decidimos utilizar a Vuforia no lugar.
 
 
-|   			        **INTEGRANTE**     		            |     **CONTRIBUIÇÃO**    |
+|   			        **INTEGRANTE**              |     **CONTRIBUIÇÃO**    |
 | :-------------------------------------------------------- | ----------------------: |
 | **[Victor Hugo](https://github.com/KingOfCactus/)**       | Programação e Gestão    |
 | **Nicolas Oliveira**                                      | Construção no Minecraft |
 | **Leonardo Diogo**                                        | Construção no Minecraft |
-| **Lucas Ayolphi**    					                    | Construção no Minecraft |
-| **Will Emmanuel**    					                    | Construção no Minecraft |
-| **Caio Ferreira**    					                    | Construção no Minecraft |
+| **Lucas Ayolphi**    					    | Construção no Minecraft |
+| **Will Emmanuel**    					    | Construção no Minecraft |
+| **Caio Ferreira**    					    | Construção no Minecraft |
 </p>
