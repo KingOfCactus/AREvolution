@@ -31,7 +31,7 @@ mas como nenhum de nossos dispositivos apresentava suporte, decidimos utilizar a
 |   			        **INTEGRANTE**              |     **CONTRIBUIÇÃO**    |
 | :-------------------------------------------------------- | ----------------------: |
 | **[Victor Hugo](https://github.com/KingOfCactus/)**       | Programação e Gestão    |
-| **Nicolas Oliveira**                                      | Construção no Minecraft |
+| **[Nicolas Oliveira](https://github.com/NicolasGoldner)** | Construção no Minecraft |
 | **[Leonardo Diogo](https://github.com/LeonardoBuzelin)**  | Construção no Minecraft |
 | **Lucas Ayolphi**    					    | Construção no Minecraft |
 | **Will Emmanuel**    					    | Construção no Minecraft |
